@@ -1,0 +1,30 @@
+INSTRUCTIVO PROGRAMA 1
+
+Implementar un programa con las siguientes opciones:
+	1. Exportar el conjunto de datos gapminder en formato “xlsx”. El 10 % de los valores de las columnas lifeEx,
+	   pop, y gdpPercap se debe reemplazar de forma aleatoria por valores no asignados NA.
+	2. Importar el archivo gapminder en formato “xlsx”.
+	3. Graficar el diagrama de dispersi ́on lifeEx vs pop.
+	4. Graficar el diagrama de dispersi ́on gdpPercap vs pop.
+	5. Graficar los diagramas de cajas de la variable gdpPercap discriminados por continentes desde 1990 a 2007.
+
+
+Paso1: Abrir el archivo (Primer_Programa.R) en R studio.
+Paso2: Ejecutar el programa.
+Paso3: Escribir el nombre de la función (main()) en la consola de R studio.
+Paso4: Seleccionar una de las 5 opciones que aparecen dentro del menú.
+	1. Guardar gapminder.
+	2. Leer gapminder.xlsx.
+	3. Graficar el diagrama de dispersión lifeEx vs pop.
+	4. Graficar el diagrama de dispersión gdpPercap vs pop.
+	5. Graficar los diagramas de cajas de la variable gdpPercap discriminados
+           por continentes desde 1990 a 2007.
+	
+si desea volver a correr el programa para probar las demas opciones, repita 
+los anteriores pasos.  
+---------------------------------------------------------------------------------------
+Nota: Para ejecutar el programa se debe tener instalado ggplot2,openxlsx,gapminder,
+      dplyr.
+Nota2: si  no tiene alguna de las librerias mencionadas anteriormente solo debe
+       descomentar la linea correspondiente a la libreria que le falta, estas se encuntran
+       de la linea 09 a 12.

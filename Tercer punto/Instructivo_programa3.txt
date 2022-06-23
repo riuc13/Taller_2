@@ -1,0 +1,23 @@
+INSTRUCTIVO PROGRAMA 3
+
+ 3. Implementar un programa con las siguientes opciones:
+   Graficar la función de densidad de una distribución uniforme.
+   Graficar la función de densidad de una distribución Bernoulli.
+   Graficar la función de densidad de una distribución Poisson.
+   Graficar la función de densidad de una distribución Exponencial.
+
+Paso1: Abrir el archivo (Tercer_Programa.R) en R studio.
+Paso2: Ejecutar el programa.
+Paso3: Escribir el nombre de la función (Densidad()) en la consola de R studio.
+Paso4: Seleccionar una de las cuatro opciones que aparecen dentro del menú.
+	Opción 1: Graficar la función de densidad de una distribución uniforme.
+  	Opción 2: Graficar la función de densidad de una distribución Bernoulli. 
+  	Opción 3: Graficar la función de densidad de una distribución Poisson. 
+   	Opción 4: Graficar la función de densidad de una distribución Exponencial. 
+
+Paso5: llenar los parametros que le pida el programa dependiendo de la opción que eligio.
+
+si desea volver a correr el programa para probar las demas opciones, repita 
+los anteriores pasos.  
+---------------------------------------------------------------------------------------
+Nota: Para ejecutar el programa se debe tener instalado ggplot2

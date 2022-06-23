@@ -1,0 +1,20 @@
+Instructivo del Programa
+
+-1. Abrir el programa.
+-2. Correr el Programa.
+-3.Aparecerá un menú, debe elegir numericamente la opción que desea ver.
+	
+	- "1 Ver el archivo Experimento_a.csv "
+  	- "2 ver el archivo Experimento_b.csv"
+  	- "3 Desea saber si la media de los datos es especificamente 
+	  significativa "
+ 	- "4 Ver la correlacion de Pearson y Spearman"
+  	- "5 Graficar el diagrama de difraccion y la 
+	  linea recta que aproxime los datos calculada por una 
+	  regecion lineal por minimos cuadrados"
+-4. digitar la opción en la consola y presionar enter.
+-5. Vuelva al menú principal y repita proceso.
+
+----------------------------------------------------------------------------
+Nota: Para que el prograna funcione debe contar con los archivos 
+"Experimento_a.csv" y "Experimento_b.csv" en la misma carpeta que el archivo .r
